@@ -52,7 +52,7 @@
       "label": "XSequence 0",
       "elements": [
         {
-          "@id": "http://oauthis.azurewebsites.net/hdtest.mp4#identity",
+          "@id": "http://ixiftest.azurewebsites.net/hdtest.mp4#identity",
           "@type": "dctypes:MovingImage",
           "format": "video/mp4",
           "label": "Free sample video",
@@ -65,7 +65,7 @@
           "thumbnail": "https://wellcomelibrary.org/posterimages/0055-0000-3664-0000-0-0000-0000-0.jpg",
           "rendering": [
             {
-              "@id": "http://oauthis.azurewebsites.net/hdtest.mp4",
+              "@id": "http://ixiftest.azurewebsites.net/hdtest.mp4",
               "format": "video/mp4"
             }
           ],
